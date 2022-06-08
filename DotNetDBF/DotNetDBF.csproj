@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<RootNamespace>DotNetDBF</RootNamespace>
+		<Company>INPROC</Company>
+		<AssemblyName>$(Company).$(MSBuildProjectName)</AssemblyName>
+	</PropertyGroup>
+</Project>
